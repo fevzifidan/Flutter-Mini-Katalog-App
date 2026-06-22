@@ -21,6 +21,9 @@ Flutter ile geliştirilmiş, ürünlerin listelenip detaylı olarak görüntüle
 ## 📦 Kurulum
 
 ```bash
+# Proje dizinine gir
+cd mini_katalog_uygulamasi
+
 # Bağımlılıkları yükle
 flutter pub get
 
